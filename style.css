@@ -66,12 +66,15 @@ header p {
     margin-bottom: 10px;
 }
 
-.links a {
+a {
     text-decoration: none;
     color: #5b5ea6;
     font-size: 1.2em;
 }
 
-.links a:hover {
+a:hover {
     text-decoration: underline;
+    text-decoration: none;
+    color: #5b5ea6;
+    font-size: 1.2em;
 }
